@@ -1,3 +1,9 @@
 streamlit
 pandas
-google-meridian
+pyro-ppl
+numpy
+scipy
+matplotlib
+seaborn
+pymc
+git+https://github.com/google/meridian.git
